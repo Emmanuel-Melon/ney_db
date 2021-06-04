@@ -1,5 +1,5 @@
 [package]
-name = "neyDB"
+name = "ney_db"
 version = "0.1.0"
 authors = ["Eman <emmanuelgatwech@gmail.com>"]
 edition = "2018"
